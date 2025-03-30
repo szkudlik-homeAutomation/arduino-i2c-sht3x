@@ -39,7 +39,7 @@
 #ifndef SENSIRIONI2CSHT3X_H
 #define SENSIRIONI2CSHT3X_H
 
-#include <SensirionCore.h>
+#include "../../sensiron_core/src/SensirionCore.h"
 #include <Wire.h>
 
 #define NO_ERROR 0
